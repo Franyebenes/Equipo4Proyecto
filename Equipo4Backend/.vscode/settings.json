@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "sonarlint.connectedMode.project": {
+        "connectionId": "-http-seralu4-esi-uclm-es-1521-",
+        "projectKey": "2026-g04-backend"
+    }
+}
